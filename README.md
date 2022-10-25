@@ -1,2 +1,2 @@
 # Intro
-Introducción de el uso de repositorios en GitHub
+Introducción del uso de repositorios en GitHub
